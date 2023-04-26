@@ -1,6 +1,17 @@
+*{
+  background-color: #abdbe3;
+}
 .App {
   text-align: center;
+  
+  
 }
+h1{
+  text-align: center;
+}
+/*.body {
+  background-color: #abdbe3;
+}*/
 
 .App-logo {
   height: 40vmin;
@@ -36,3 +47,15 @@
     transform: rotate(360deg);
   }
 }
+.leaflet-container {
+  margin-top: 20px;
+  width: 50%;
+  height: 350px;
+ 
+ 
+}
+
+.carddetails{
+  margin:30px;
+}
+
